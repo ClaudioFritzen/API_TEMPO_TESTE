@@ -1,4 +1,6 @@
 API do tempo
+projeto no github
+https://github.com/ClaudioFritzen/API_TEMPO_TESTE
 
 Este projeto foi feito com django-ninja e selenuim para coletas dos dados
 
